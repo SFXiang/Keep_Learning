@@ -25,7 +25,7 @@ Rollouts 的含义就是根据中心全局路径生成的一些列候选局部�
 
 下面针对local_planner的两个主要部分的算法Rollouts Generator 和 Rollouts Evaluator进行简要分析，相关代码已经同步到我的github,位于planning/local_planner
 
-[SmartCAR](https://github.com/sunmiaozju/smartcar)
+[SmartCAR](https://github.com/SFXiang/4WD_Smart_Car)
 
 参考论文：
 Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments
