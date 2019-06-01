@@ -1,6 +1,6 @@
 
 
-1. [知识点整理1](docs/knowledge-tips.txt)
+1. [知识点整理1](docs/knowledge-tips.md)
 2. [知识点整理2](docs/knowledge-tips2.md)
 3. [pcd格式文件前缀解读](docs/pcd.md)
 4. [git学习总结](docs/gitlearn.md)
