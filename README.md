@@ -14,3 +14,5 @@
 12. [opencv 图像深拷贝、浅拷贝与蒙版拷贝](docs/opencv-copy-image.md)
 13. [视觉激光雷达信息融合与联合标定](docs/joint_pixel_pointcloud.md)
 14. [基于采样的局部规划与避障算法](docs/local_planner.md)
+15. [Autoware 关键解读](autoware_overview.md)
+16. [Linux编程知识点](docs/knowledge-tips3.md)
